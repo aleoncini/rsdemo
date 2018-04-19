@@ -1,0 +1,25 @@
+body {
+    padding-top: 50px;
+}
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+.def-zt-template {
+    max-width:500px;
+    margin: auto;
+    text-align: left;
+}
+.btn-zt-default {
+    float: left;
+    background: #424242;
+    padding: 3px;
+    text-align: center;
+    color: white;
+    width: 30%;
+    margin: 3px;
+}
+.btn-zt-default:hover {
+    background: #6e6e6e;
+    color: white;
+}
