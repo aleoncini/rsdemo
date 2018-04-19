@@ -1,8 +1,8 @@
 {
-  "realm": "prova",
-  "auth-server-url": "http://idp.local:8080/auth",
-  "ssl-required": "external",
-  "resource": "testrs",
+  "realm": "3scale-sso",
+  "auth-server-url": "https://secure-sso-rh-sso.apps.api.bigotta.it/auth/",
+  "ssl-required": "none",
+  "resource": "app-tyres",
   "public-client": true,
   "confidential-port": 0,
   "enable-cors": true
